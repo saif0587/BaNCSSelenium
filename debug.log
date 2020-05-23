@@ -1,0 +1,3 @@
+[0508/134938.107:ERROR:file_io_win.cc(161)] CreateFile C:\Users\DELL\AppData\Local\Temp\scoped_dir13220_2326\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0508/134938.128:ERROR:file_io_win.cc(170)] CreateFile C:\Users\DELL\AppData\Local\Temp\scoped_dir13220_2326\Crashpad\reports\3168eb64-ba21-4176-b8de-e6faa3f9f8e0.dmp: The system cannot find the path specified. (0x3)
+[0508/134938.129:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
